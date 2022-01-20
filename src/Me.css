@@ -59,7 +59,7 @@ h1{
     margin: 1em 0;
     cursor: pointer;
 }
-.button1 button[type="submit"]{
+.button1 button[type="button"]{
     background: mediumseagreen;
     color: #fff;
     text-transform: uppercase;
@@ -67,7 +67,7 @@ h1{
     opacity: 1;
     transition: opacity .3s ease;
 }
-.button1 button[type="submit"]:hover{
+.button1 button[type="button"]:hover{
     background: seagreen;
     opacity: 1;
 }
